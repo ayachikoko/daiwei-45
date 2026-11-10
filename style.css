@@ -91,6 +91,7 @@ body.locked{overflow:hidden}
   -webkit-background-clip:text;background-clip:text;color:transparent;
   text-shadow:0 24px 60px rgba(0,0,0,.4)}
 .hero-age{margin:3.4vh 0 0;font-size:clamp(.95rem,3.2vw,1.15rem);letter-spacing:.62em;text-indent:.62em;color:var(--gold-soft);opacity:.9}
+.hero-year{margin:1.2em 0 0;font-size:.78rem;letter-spacing:.22em;text-indent:.22em;color:rgba(154,142,123,.82)}
 .hero-sub{margin:2.6vh 0 0;font-size:clamp(.86rem,2.8vw,1rem);letter-spacing:.16em;color:var(--muted)}
 .scroll-hint{position:absolute;bottom:34px;left:0;right:0;font-size:.72rem;letter-spacing:.3em;color:rgba(154,142,123,.7);text-indent:.3em}
 .scroll-hint span{display:block;width:1px;height:34px;margin:0 auto 14px;background:linear-gradient(180deg,transparent,var(--gold));opacity:.7;animation:drip 2.6s ease-in-out infinite}
