@@ -83,8 +83,8 @@ body.locked{overflow:hidden}
 .hero-kicker{font-family:ui-monospace,"SFMono-Regular",Menlo,monospace;font-size:.72rem;letter-spacing:.48em;color:var(--gold);opacity:.85;margin:0 0 3.2vh;text-indent:.48em}
 .hero-name-wrap{position:relative;line-height:1}
 .hero-forty{position:absolute;left:50%;top:50%;transform:translate(-50%,-52%);
-  font-family:ui-monospace,Menlo,monospace;font-size:clamp(11rem,40vw,26rem);font-weight:700;
-  color:transparent;-webkit-text-stroke:1px rgba(217,174,106,.09);letter-spacing:.02em;pointer-events:none;user-select:none}
+  font-family:ui-monospace,Menlo,monospace;font-size:clamp(10rem,36vw,23rem);font-weight:700;
+  color:transparent;-webkit-text-stroke:1px rgba(217,174,106,.07);letter-spacing:.02em;pointer-events:none;user-select:none}
 .hero-name{
   position:relative;margin:0;font-weight:500;font-size:clamp(3.6rem,15vw,9rem);letter-spacing:.14em;text-indent:.14em;
   background:linear-gradient(180deg,#fbf3e4 8%,#e8cda2 52%,#c9a066 100%);
